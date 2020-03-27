@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Labsheet4</string>
+    <string name="blank" />
+    <string name="btn">Sign Up</string>
+    <string name="nHint">Name</string>
+    <string name="hintName">Name</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintTele">Telephone</string>
+    <string name="HintPw">Password</string>
+    <string name="confirmPw">Confirm Password</string>
+    <string name="regbtn">Register</string>
+</resources>
